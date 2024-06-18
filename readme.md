@@ -5,4 +5,4 @@
 >***Nếu bạn đang buồn, thì hãy cười lên là được.***
 ~~=====================================================~~
 
-!![meme](https://i.imgur.com/lVlPvCB.gif)
+![meme](https://i.imgur.com/lVlPvCB.gif)
