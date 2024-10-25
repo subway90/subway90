@@ -3,5 +3,5 @@
 
 ~~=====================================================================~~
 
-![meme](https://i.imgur.com/lVlPvCB.gif)
-![](https://raw.githubusercontent.com/thinkasany/thinkasany/output/github-snake.svg)
+| ![1](https://i.imgur.com/lVlPvCB.gif) | ![2](https://raw.githubusercontent.com/thinkasany/thinkasany/output/github-snake.svg) |
+| --- | --- |
