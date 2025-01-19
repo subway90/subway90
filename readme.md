@@ -1,4 +1,4 @@
-**Xin chào, mình là Hiếu** ✋✋
+**Xin chào, mình là Hiếu** ✋
 >***Nếu bạn đang buồn, thì hãy vui lên là được.***
 
 
